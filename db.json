@@ -1,0 +1,70 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Go To Church",
+      "day": "Feb 8th at 6:30am",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Call Mason",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "id": 6,
+      "text": "PTA Meeting",
+      "day": "Feb 15th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "Pastor's Appointment",
+      "day": "Feb 6th at 2:00pm",
+      "reminder": true
+    },
+    {
+      "id": 8,
+      "text": "Join Zoom Meeting",
+      "day": "Feb 7th at 9:30am",
+      "reminder": true
+    },
+    {
+      "id": 9,
+      "text": "Call Cousin",
+      "day": "Feb 5th at 5:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Shopping",
+      "day": "Feb 10th at 1:30pm",
+      "reminder": false,
+      "id": 10
+    },
+    {
+      "text": "Test Task",
+      "day": "Feb 20th at 10am",
+      "reminder": false,
+      "id": 11
+    },
+    {
+      "text": "Another Task",
+      "day": "Another Day",
+      "reminder": false,
+      "id": 12
+    }
+  ]
+}
